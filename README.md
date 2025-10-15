@@ -1,1 +1,0 @@
-# teste-outubro-2025-2
