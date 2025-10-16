@@ -96,3 +96,14 @@ h1 {
     position: relative;
     transition: background-color var(--transition-time);
 }
+
+.toggle-label:before {
+    content: "";
+    position: absolute;
+
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    
+    background-color: var(--toogle-active);
+}
